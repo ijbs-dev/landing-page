@@ -2,8 +2,7 @@
 ### **Landing Page de Jogos - Nintendo**
 
 ---
-
-![Prévia da Landing Page](images/landing-page-preview.png)
+[Prévia da Landing Page](https://ijbs-dev.github.io/landing-page/)
 
 ---
 
@@ -93,13 +92,13 @@ Siga os passos abaixo para executar o projeto localmente:
 ### **Capturas de Tela**
 
 #### **Slide Super Mario Odyssey**
-![Mario Slide](images/mario-slide.png)
+![Mario Slide](https://github.com/ijbs-dev/landing-page/blob/main/images/mario.png)
 
 #### **Slide Pokemon Legends: Arceus**
-![Pokemon Slide](images/pokemon-slide.png)
+![Pokemon Slide](https://github.com/ijbs-dev/landing-page/blob/main/images/pokemon.png)
 
 #### **Slide Zelda: Tears of the Kingdom**
-![Zelda Slide](images/zelda-slide.png)
+![Zelda Slide](https://github.com/ijbs-dev/landing-page/blob/main/images/zelda.png)
 
 ---
 
